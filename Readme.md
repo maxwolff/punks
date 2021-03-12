@@ -8,8 +8,6 @@ Draft of a crypto punk model
 
 data from `https://github.com/cryptopunksnotdead/punks`
 
-`python -m venv ~/.venv/punks`
-`source ~/.venv/punks/bin/activate`
+* `pipenv install`
+* `pipenv run jupyter notebook Punk.ipynb`
 
-`python -m pip install -r requirements.txt`
-`python -m pip freeze > requirements.txt`

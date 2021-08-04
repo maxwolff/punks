@@ -1,5 +1,5 @@
+Exploratory Data Analysis on Crypto Punks
 
-Draft of a crypto punk model
 * Add your infura key to env under KEY
 * web3.py only works w python 3.7 for some reason
 * one hot encoding of attributes(eg: hair color etc) and punk types (ape, alien, etc)
